@@ -1,1 +1,3 @@
 # odin-recipes
+
+This is a very basic HTML recipe website that will be used to showcase my knowledge of html. If done correctly, I will show how to dislay Headers, produce text in both/either bold or italic with accompanied by the accessible option for screen readers. I will also put in place functioning links, as well as images with the alternate message to appear should anything go wrong in displaying the image which doubles as the accessible way for screen readers to process images. The information will be presented in both/either an organized list or unorganized list of items to complete the recipes.
